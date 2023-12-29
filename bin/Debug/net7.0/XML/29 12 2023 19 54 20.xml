@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Word>
+    <ID>1</ID>
+    <Full>приветствие</Full>
+    <Prefix />
+    <Root>привет</Root>
+    <Suffix>ствие</Suffix>
+  </Word>
+  <Word>
+    <ID>2</ID>
+    <Full>здороваться</Full>
+    <Prefix />
+    <Root>здоров</Root>
+    <Suffix>аться</Suffix>
+  </Word>
+  <Word>
+    <ID>3</ID>
+    <Full>красота</Full>
+    <Prefix />
+    <Root>крас</Root>
+    <Suffix>ота</Suffix>
+  </Word>
+  <Word>
+    <ID>4</ID>
+    <Full>новости</Full>
+    <Prefix />
+    <Root>нов</Root>
+    <Suffix>ости</Suffix>
+  </Word>
+  <Word>
+    <ID>5</ID>
+    <Full>новостной</Full>
+    <Prefix />
+    <Root>нов</Root>
+    <Suffix>остной</Suffix>
+  </Word>
+  <Word>
+    <ID>6</ID>
+    <Full>красивый</Full>
+    <Prefix />
+    <Root>крас</Root>
+    <Suffix>ивый</Suffix>
+  </Word>
+  <Word>
+    <ID>7</ID>
+    <Full>красный</Full>
+    <Prefix />
+    <Root>крас</Root>
+    <Suffix>ный</Suffix>
+  </Word>
+</ArrayOfWord>
